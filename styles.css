@@ -673,6 +673,27 @@ img {
     padding-top: 180px;
   }
 
+  .about-bottom-content {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .about-features {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+  }
+
+  .feature-item {
+    width: 100%;
+    margin: 0;
+  }
+
+  .contact-decoration {
+    display: none;
+  }
+
   .hero-content h1 {
     font-size: 1.8rem;
   }
